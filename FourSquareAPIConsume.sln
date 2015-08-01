@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourSquareAPIConsume", "FourSquareAPIConsume\FourSquareAPIConsume.csproj", "{A29AE96D-6CF1-4D0C-95C5-259A0BFC9A82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4SquareConsole", "4SquareConsole\4SquareConsole.csproj", "{3C29EC23-5031-4AA1-A8DF-DD14C450D43B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binaryTree", "binaryTree\binaryTree.csproj", "{70E36D02-51C5-4C59-96C0-313EC9C5EB1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursion", "recursion\recursion.csproj", "{58CCD9DA-93C6-48CF-A26F-52A06E647C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A29AE96D-6CF1-4D0C-95C5-259A0BFC9A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29AE96D-6CF1-4D0C-95C5-259A0BFC9A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29AE96D-6CF1-4D0C-95C5-259A0BFC9A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29AE96D-6CF1-4D0C-95C5-259A0BFC9A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C29EC23-5031-4AA1-A8DF-DD14C450D43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C29EC23-5031-4AA1-A8DF-DD14C450D43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C29EC23-5031-4AA1-A8DF-DD14C450D43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C29EC23-5031-4AA1-A8DF-DD14C450D43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E36D02-51C5-4C59-96C0-313EC9C5EB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E36D02-51C5-4C59-96C0-313EC9C5EB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E36D02-51C5-4C59-96C0-313EC9C5EB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E36D02-51C5-4C59-96C0-313EC9C5EB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CCD9DA-93C6-48CF-A26F-52A06E647C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CCD9DA-93C6-48CF-A26F-52A06E647C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CCD9DA-93C6-48CF-A26F-52A06E647C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CCD9DA-93C6-48CF-A26F-52A06E647C34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
